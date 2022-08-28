@@ -4,7 +4,6 @@
 逃げ回るスイカをたたき割るゲームです。<BR>スイカは飛んだり跳ねたり透明になったりあらゆる手段で逃げます。<BR>
 
 
-
 https://user-images.githubusercontent.com/64608456/187064871-318ec6da-6b4e-4719-9038-282d43245176.mp4
 
 
@@ -33,3 +32,6 @@ https://user-images.githubusercontent.com/64608456/187064871-318ec6da-6b4e-4719-
 ・2m × 2m　<BR>
 ・加速床　<BR>
 ・ワープホール　<BR>
+
+# ビルド
+https://drive.google.com/drive/folders/1szqprBsUGh4Huu-SIDbeb1w20nrULpCB?usp=sharing
