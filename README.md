@@ -4,7 +4,10 @@
 逃げ回るスイカをたたき割るゲームです。<BR>スイカは飛んだり跳ねたり透明になったりあらゆる手段で逃げます。<BR>
 
 
-https://user-images.githubusercontent.com/64608456/187064808-2815a032-cc41-4114-85a5-43f07ec008b2.mp4
+
+https://user-images.githubusercontent.com/64608456/187064871-318ec6da-6b4e-4719-9038-282d43245176.mp4
+
+
   
 # システム
   制限時間：30秒 <BR>
